@@ -142,6 +142,16 @@ ul {
     .button_3 {
         padding: 30px 0px 10px 0px;
     }
+    .btn_3 {
+    padding: 10px 100px 10px 100px;
+    background-color: #6d8fd9;
+    color: #FFF;
+    font-weight: 500;
+    font-size: 20px;
+    margin-left: 0px;
+    text-decoration: none;
+    border-radius: 50px;
+}
     .button_3 a:hover {
         background-color: #28666e;
         color: #FFF;
@@ -368,6 +378,16 @@ label.content-dark_span-span {
         padding: 10px 0px 0px 0px;
         font-size: 15px;
         font-family: Arial, Helvetica, sans-serif;
+    }
+        .btn_3 {
+        padding: 10px 40px 10px 40px;
+        background-color: #6d8fd9;
+        color: #FFF;
+        font-weight: 500;
+        font-size: 20px;
+        margin-left: 0px;
+        text-decoration: none;
+        border-radius: 50px;
     }
     .paragraph_break p {
         margin-top: 20px;
